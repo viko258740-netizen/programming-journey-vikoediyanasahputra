@@ -1,0 +1,7 @@
+C:\Users\HP\Downloads\viko vscode\Contoh2_VikoEdiyansahPutra_xpplg1\Contoh2_VikoEdiyansahPutra_xpplg1\bin\Debug\Contoh2_VikoEdiyansahPutra_xpplg1.exe.config
+C:\Users\HP\Downloads\viko vscode\Contoh2_VikoEdiyansahPutra_xpplg1\Contoh2_VikoEdiyansahPutra_xpplg1\bin\Debug\Contoh2_VikoEdiyansahPutra_xpplg1.exe
+C:\Users\HP\Downloads\viko vscode\Contoh2_VikoEdiyansahPutra_xpplg1\Contoh2_VikoEdiyansahPutra_xpplg1\bin\Debug\Contoh2_VikoEdiyansahPutra_xpplg1.pdb
+C:\Users\HP\Downloads\viko vscode\Contoh2_VikoEdiyansahPutra_xpplg1\Contoh2_VikoEdiyansahPutra_xpplg1\obj\Debug\Contoh2_VikoEdiyansahPutra_xpplg1.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\viko vscode\Contoh2_VikoEdiyansahPutra_xpplg1\Contoh2_VikoEdiyansahPutra_xpplg1\obj\Debug\Contoh2_VikoEdiyansahPutra_xpplg1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\viko vscode\Contoh2_VikoEdiyansahPutra_xpplg1\Contoh2_VikoEdiyansahPutra_xpplg1\obj\Debug\Contoh2_VikoEdiyansahPutra_xpplg1.exe
+C:\Users\HP\Downloads\viko vscode\Contoh2_VikoEdiyansahPutra_xpplg1\Contoh2_VikoEdiyansahPutra_xpplg1\obj\Debug\Contoh2_VikoEdiyansahPutra_xpplg1.pdb
