@@ -1,0 +1,8 @@
+C:\Users\HP\Downloads\viko vscode\Praktik4.5_VikoEdiyansahPutra_xpplg1\Praktik4.5_VikoEdiyansahPutra_xpplg1\bin\Debug\Praktik4.5_VikoEdiyansahPutra_xpplg1.exe.config
+C:\Users\HP\Downloads\viko vscode\Praktik4.5_VikoEdiyansahPutra_xpplg1\Praktik4.5_VikoEdiyansahPutra_xpplg1\bin\Debug\Praktik4.5_VikoEdiyansahPutra_xpplg1.exe
+C:\Users\HP\Downloads\viko vscode\Praktik4.5_VikoEdiyansahPutra_xpplg1\Praktik4.5_VikoEdiyansahPutra_xpplg1\bin\Debug\Praktik4.5_VikoEdiyansahPutra_xpplg1.pdb
+C:\Users\HP\Downloads\viko vscode\Praktik4.5_VikoEdiyansahPutra_xpplg1\Praktik4.5_VikoEdiyansahPutra_xpplg1\obj\Debug\Praktik4.5_VikoEdiyansahPutra_xpplg1.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\viko vscode\Praktik4.5_VikoEdiyansahPutra_xpplg1\Praktik4.5_VikoEdiyansahPutra_xpplg1\obj\Debug\Praktik4.5_VikoEdiyansahPutra_xpplg1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\viko vscode\Praktik4.5_VikoEdiyansahPutra_xpplg1\Praktik4.5_VikoEdiyansahPutra_xpplg1\obj\Debug\Praktik4.5_VikoEdiyansahPutra_xpplg1.exe
+C:\Users\HP\Downloads\viko vscode\Praktik4.5_VikoEdiyansahPutra_xpplg1\Praktik4.5_VikoEdiyansahPutra_xpplg1\obj\Debug\Praktik4.5_VikoEdiyansahPutra_xpplg1.pdb
+C:\Users\HP\Downloads\viko vscode\Praktik4.5_VikoEdiyansahPutra_xpplg1\Praktik4.5_VikoEdiyansahPutra_xpplg1\obj\Debug\Praktik4.5_VikoEdiyansahPutra_xpplg1.exe.config
