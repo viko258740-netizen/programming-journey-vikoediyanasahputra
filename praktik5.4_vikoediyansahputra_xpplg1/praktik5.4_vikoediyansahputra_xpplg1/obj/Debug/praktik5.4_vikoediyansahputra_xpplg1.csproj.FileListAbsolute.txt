@@ -1,0 +1,7 @@
+C:\Users\HP\Downloads\viko vscode\praktik5.4_vikoediyansahputra_xpplg1\praktik5.4_vikoediyansahputra_xpplg1\bin\Debug\praktik5.4_vikoediyansahputra_xpplg1.exe.config
+C:\Users\HP\Downloads\viko vscode\praktik5.4_vikoediyansahputra_xpplg1\praktik5.4_vikoediyansahputra_xpplg1\bin\Debug\praktik5.4_vikoediyansahputra_xpplg1.exe
+C:\Users\HP\Downloads\viko vscode\praktik5.4_vikoediyansahputra_xpplg1\praktik5.4_vikoediyansahputra_xpplg1\bin\Debug\praktik5.4_vikoediyansahputra_xpplg1.pdb
+C:\Users\HP\Downloads\viko vscode\praktik5.4_vikoediyansahputra_xpplg1\praktik5.4_vikoediyansahputra_xpplg1\obj\Debug\praktik5.4_vikoediyansahputra_xpplg1.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\viko vscode\praktik5.4_vikoediyansahputra_xpplg1\praktik5.4_vikoediyansahputra_xpplg1\obj\Debug\praktik5.4_vikoediyansahputra_xpplg1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\viko vscode\praktik5.4_vikoediyansahputra_xpplg1\praktik5.4_vikoediyansahputra_xpplg1\obj\Debug\praktik5.4_vikoediyansahputra_xpplg1.exe
+C:\Users\HP\Downloads\viko vscode\praktik5.4_vikoediyansahputra_xpplg1\praktik5.4_vikoediyansahputra_xpplg1\obj\Debug\praktik5.4_vikoediyansahputra_xpplg1.pdb
