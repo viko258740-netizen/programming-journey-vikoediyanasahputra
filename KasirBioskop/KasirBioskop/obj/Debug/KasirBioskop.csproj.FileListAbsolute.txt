@@ -1,0 +1,12 @@
+C:\Users\HP\Downloads\viko vscode\KasirBioskop\KasirBioskop\bin\Debug\KasirBioskop.exe.config
+C:\Users\HP\Downloads\viko vscode\KasirBioskop\KasirBioskop\bin\Debug\KasirBioskop.exe
+C:\Users\HP\Downloads\viko vscode\KasirBioskop\KasirBioskop\bin\Debug\KasirBioskop.pdb
+C:\Users\HP\Downloads\viko vscode\KasirBioskop\KasirBioskop\obj\Debug\KasirBioskop.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\viko vscode\KasirBioskop\KasirBioskop\obj\Debug\KasirBioskop.Form1.resources
+C:\Users\HP\Downloads\viko vscode\KasirBioskop\KasirBioskop\obj\Debug\KasirBioskop.Properties.Resources.resources
+C:\Users\HP\Downloads\viko vscode\KasirBioskop\KasirBioskop\obj\Debug\KasirBioskop.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\viko vscode\KasirBioskop\KasirBioskop\obj\Debug\KasirBioskop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\viko vscode\KasirBioskop\KasirBioskop\obj\Debug\KasirBioskop.exe
+C:\Users\HP\Downloads\viko vscode\KasirBioskop\KasirBioskop\obj\Debug\KasirBioskop.pdb
+C:\Users\HP\Downloads\viko vscode\KasirBioskop\KasirBioskop\obj\Debug\KasirBioskop.exe.config
+C:\Users\HP\Downloads\viko vscode\KasirBioskop\KasirBioskop\obj\Debug\KasirBioskop.FormLogin.resources
