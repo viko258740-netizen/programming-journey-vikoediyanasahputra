@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontrol Manual dengan JavaScript</title>
+</head>
+<body>
+    <h2>Kontrol Manual dengan JavaScript</h2>
+    <p>Kontrol audio menggunakan tombol Play, Pause, dan Stop.</p>
+
+    <audio id="myAudio">
+        <source src="SweetCaroline.mp3" type="audio/mpeg">
+        Browser Anda tidak mendukung audio.
+    </audio>
+    <br><br>
+
+    <button onclick="playAudio()">Play</button>
+    <button onclick="pauseAudio()">Pause</button>
+    <button onclick="stopAudio()">Stop</button>
+
+    <script>
+        var audio = document.getElementById("myAudio");
+
+        function playAudio() {
+            audio.play();
+        }
+
+        function pauseAudio() {
+            audio.pause();
+        }
+
+        function stopAudio() {
+            audio.pause();
+            audio.currentTime = 0;
+        }
+    </script>
+</body>
+</html>

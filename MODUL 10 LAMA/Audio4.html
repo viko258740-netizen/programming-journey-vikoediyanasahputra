@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio</title>
+</head>
+<body>
+    <audio id="myAudio" src="SweetCaroline.mp3" controls></audio>
+    <br>
+    <button onclick="playAudio()">Play</button>
+    <button onclick="pauseAudio()">Pause</button>
+    <button onclick="stopAudio()">Stop</button>
+
+    <script>
+    function playAudio() {
+        document.getElementById("myAudio").play();
+    }
+    function pauseAudio() {
+        document.getElementById("myAudio").pause();
+    }
+    function stopAudio() {
+        const audio = document.getElementById("myAudio");
+        audio.pause();
+        audio.currentTime = 0;
+    }
+    </script>
+
+</body>
+</html>

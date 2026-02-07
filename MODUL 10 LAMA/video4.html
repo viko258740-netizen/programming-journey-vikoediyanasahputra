@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>video</title>
+</head>
+<body>
+    <video id="myVid" width="400" controls>
+        <source src="kucing.mp4" type="video/mp4">
+    </video>
+
+    <button onclick="playVideo()">Play</button>
+    <button onclick="pauseVideo()">Pause</button>
+
+    <script>
+    function playVideo() {
+        document.getElementById("myVid").play();
+    }
+    function pauseVideo() {
+        document.getElementById("myVid").pause();
+    }
+    </script>
+
+</body>
+</html>

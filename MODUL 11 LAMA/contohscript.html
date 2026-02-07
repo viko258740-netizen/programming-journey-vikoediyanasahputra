@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contoh Script</title>
+</head>
+<body>
+    <h1 id="id">Belum diklik!</h1>
+    <button id="button">Klik saya!</button>
+
+    <script>
+        document.getElementById("button").addEventListener("click", function() {
+            document.getElementById("H1").innerHTML = "Tombol sudah diklik!";
+        });
+    </script>
+</body>
+</html>
