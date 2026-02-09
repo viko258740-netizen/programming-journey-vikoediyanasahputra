@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulir Pendaftaran SMK</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 600px;
+            margin: 20px auto;
+        }
+        h2 {
+            text-align: center;
+            text-transform: uppercase;
+        }
+        fieldset {
+            border: 2px solid black;
+            margin-bottom: 20px;
+            padding: 15px;
+        }
+        legend {
+            font-weight: bold;
+            padding: 0 10px;
+        }
+        .row {
+            display: flex;
+            margin-bottom: 10px;
+            align-items: flex-start;
+        }
+        .label {
+            flex: 1;
+        }
+        .input-field {
+            flex: 2;
+        }
+        input[type="text"], textarea, select {
+            width: 100%;
+            box-sizing: border-box;
+        }
+        .radio-group {
+            display: flex;
+            flex-direction: column;
+        }
+        .nun-table {
+            width: 100%;
+        }
+        .nun-table td {
+            padding: 2px 0;
+        }
+        .small-input {
+            width: 80px !important;
+        }
+        .right-align {
+            text-align: right;
+            padding-right: 10px;
+        }
+    </style>
+</head>
+<body style="font-family: 'Times New Roman', Times, serif;">
+
+    <h2>Formulir Pendaftaran Calon Siswa Baru SMK</h2>
+
+    <form>
+        <fieldset>
+            <legend>BIODATA SISWA</legend>
+            
+            <div class="row">
+                <div class="label">No. UN SMP/MTs/Sederajat</div>
+                <div class="input-field"><input type="text" name="no_un"></div>
+            </div>
+
+            <div class="row">
+                <div class="label">Nama Lengkap</div>
+                <div class="input-field"><input type="text" name="nama"></div>
+            </div>
+
+            <div class="row">
+                <div class="label">Jenis Kelamin</div>
+                <div class="input-field radio-group">
+                    <label><input type="radio" name="jk" value="L"> Laki-laki</label>
+                    <label><input type="radio" name="jk" value="P"> Perempuan</label>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="label">Nama Orangtua/Wali</div>
+                <div class="input-field"><input type="text" name="nama_ortu"></div>
+            </div>
+
+            <div class="row">
+                <div class="label">Alamat <small>(Sesuai KK/KTP/Surat Ket. Domisili min. 6 bln Ortu/Wali murid calon siswa)</small></div>
+                <div class="input-field"><textarea name="alamat" rows="3"></textarea></div>
+            </div>
+
+            <div class="row">
+                <div class="label">Kota/Kabupaten</div>
+                <div class="input-field"><input type="text" name="kota"></div>
+            </div>
+
+            <div class="row">
+                <div class="label">Asal Sekolah</div>
+                <div class="input-field"><input type="text" name="asal_sekolah"></div>
+            </div>
+
+            <div class="row">
+                <div class="label">Agama</div>
+                <div class="input-field">
+                    <select name="agama" style="width: auto;">
+                        <option value="Islam">Islam</option>
+                        <option value="Kristen">Kristen</option>
+                        <option value="Katolik">Katolik</option>
+                        <option value="Hindu">Hindu</option>
+                        <option value="Budha">Budha</option>
+                        <option value="Khonghucu">Khonghucu</option>
+                    </select>
+                </div>
+            </div>
+        </fieldset>
+
+        <fieldset>
+            <legend>PENILAIAN</legend>
+            
+            <strong>NILAI UJIAN NASIONAL</strong>
+            <table class="nun-table">
+                <tr>
+                    <td>1. Matematika</td>
+                    <td><input type="text" class="small-input"></td>
+                    <td rowspan="4" class="right-align">Jumlah NUN</td>
+                    <td rowspan="4"><input type="text" class="small-input"></td>
+                </tr>
+                <tr>
+                    <td>2. Bahasa Indonesia</td>
+                    <td><input type="text" class="small-input"></td>
+                </tr>
+                <tr>
+                    <td>3. Bahasa Inggris</td>
+                    <td><input type="text" class="small-input"></td>
+                </tr>
+                <tr>
+                    <td>4. Ilmu Pengetahuan Alam (IPA)</td>
+                    <td><input type="text" class="small-input"></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><strong>NILAI BONUS PRESTASI (NBP)</strong></td>
+                    <td class="right-align"></td>
+                    <td><input type="text" class="small-input"></td>
+                </tr>
+                <tr>
+                    <td colspan="3"><strong>JUMLAH TOTAL NILAI AKHIR PPDB</strong> &nbsp; <small>( Rumus : NUN + NBP )</small></td>
+                    <td><input type="text" class="small-input"></td>
+                </tr>
+            </table>
+        </fieldset>
+    </form>
+
+</body>
+</html>
