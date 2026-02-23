@@ -1,0 +1,21 @@
+/* Untuk mengatur gaya teks pada elemen h1 pada tugas3-css.html */
+h1 {
+    font-family: sans-serif;
+    color: blue;
+    font-size: 36px;
+    text-align: center;
+}
+/* Untuk mengatur gaya teks pada elemen h2 pada tugas3-css.html */
+h2 {
+    font-family: 'Times New Roman';
+    color: orange;
+    font-size: 24px;
+    text-align: center;
+}
+/* Untuk mengatur gaya teks pada elemen p pada tugas 3-css.html */
+p {
+    font-family: Arial ;
+    color: green;
+    font-size: 18px;
+    text-align: right;
+}
