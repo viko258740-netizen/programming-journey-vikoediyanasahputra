@@ -1,0 +1,39 @@
+/* Paragraf 1 */
+.Paragraf-1 {
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Paragraf 2 */
+.Paragraf-2 {
+    font-size: 140%;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Paragraf 3 */
+.Paragraf-3 {
+    font-size: 1.2em;
+    font-weight: normal;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Paragraf 4 */
+.Paragraf-4 {
+    font-size: 20px;
+    font-weight: 300; /* Lighter */
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Paragraf 5 */
+.Paragraf-5{
+    font-size: 1.rem;
+    font-weight: 800;
+    font-style: italic;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
