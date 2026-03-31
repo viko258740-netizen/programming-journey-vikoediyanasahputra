@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Box Model </title>
+    <style>
+        .background-color {
+            background-color: skyblue;
+        }
+        header {
+            margin-bottom: 2em;
+            text-align: center;
+        }
+        .foto-profil {
+            height: 120px;
+            width: 100px;
+            display: block;
+            margin: auto;
+            margin-bottom: 10px;
+            border-radius: 10px;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: snow;
+        }
+        article {
+            border: 1px solid silver;
+            border-radius: 0.8em;
+            padding: 1em;
+            margin-bottom: 1em;
+            background-color: white;
+        }
+        .kotak {
+            display: flex;
+                        justify-content:space-around;
+            background:snow;
+            border:1px solid silver;
+            padding: 15px;
+            width: 560px;
+            border-radius: 0.8em;
+        }
+        .skill {
+            padding: 15px;
+            width: 560px;
+        }
+        .pengalaman {
+            padding: 15px;
+            width: 560px;
+        }
+        footer {
+            text-align: center;
+        }
+    </style>
+</head>
+<body class="background-color">
+    <header>
+        <h1>Profil Saya</h1>
+        <p>Foto Saya</p>
+    </header>
+
+    <img class="foto-profil" src="foto-profil1.jpeg" alt="foto-profil">
+
+    <body>
+         <article>
+            <p>Saya adalah seorang pelajar di SMK Negeri 1 Kandeman, Jurusan saya adalah
+                pengembangan Perangkat Lunak dan Gim. Saya memiliki hobi Memancing dan Memancing
+            </p>
+            <div class="action-buttons">
+                <button>&#x1F44D Like</button>
+                <button>&#128552 Comment</button>
+                <button>&#xF16D Share</button>
+            </div>
+        </article>
+
+        <article>
+            <p>Kompetensi yang sudah saya pelajari di jurusan saya adalah HTML, CSS, dan JavaScript.
+                Saya sudah dapat membuat halaman web sederhana dan memahami 
+                dasar-dasar pemrograman.
+            </p>
+            <div class="action-buttons">
+                <button>&#x1F44D Like</button>
+                <button>&#128552 Comment</button>
+                <button>&#xF16D Share</button>
+            </div>
+        </article>
+        
+        <div class="kotak">
+            <div class="skill">
+            <h3>Skill</h3>
+            <ul>
+                <li>Gigih</li>
+                <li>Fokus</li>
+                <li>Sabar</li>
+            </ul>
+        </div>
+
+        <div class="pengalaman">
+            <h3>Pengalaman</h3>
+            <ul>
+                <li>HTML</li>
+                <li>JAVASCRIPT</li>
+                <li>CSS</li>
+            </ul>
+        </div>
+        </div>
+    </body>
+    <footer>
+        Copyright &copy; X PPLG 1
+    </footer>
+</body>
+</html>
