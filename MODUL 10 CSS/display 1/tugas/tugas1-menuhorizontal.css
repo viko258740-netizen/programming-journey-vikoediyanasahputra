@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+.menu{
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.menu li{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    background-color: #3498db;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.menu li a:hover{
+    background-color: #1abc9c;
+}
