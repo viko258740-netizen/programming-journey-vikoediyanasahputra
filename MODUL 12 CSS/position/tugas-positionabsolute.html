@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas Position Absolue</title>
+
+    <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f0f0f0
+    }
+
+     .container {
+      position: relative;
+      width: 300px;
+      height: 300px;
+      border: 3px solid black;
+      background-color: white;
+    }
+
+    .box {
+      width: 60px;
+      height: 60px;
+      position: absolute;
+    }
+
+     /* Posisi */
+    .kiri-atas {
+      top: 0;
+      left: 0;
+      background-color: red;
+    }
+
+     .kanan-atas {
+      top: 0;
+      right: 0;
+      background-color: blue;
+    }
+
+    .kiri-bawah {
+      bottom: 0;
+      left: 0;
+      background-color: green;
+    }
+
+    .kanan-bawah {
+      bottom: 0;
+      right: 0;
+      background-color: orange;
+    }
+    </style>
+</head>
+<body>    
+    <div class="container">
+    <div class="box kiri-atas"></div>
+    <div class="box kanan-atas"></div>
+    <div class="box kiri-bawah"></div>
+    <div class="box kanan-bawah"></div>
+  </div>
+</body>
+</html>
