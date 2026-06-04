@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kesehatan</title>
+    <style>
+        * { 
+            margin: 0; 
+            padding: 0; 
+            box-sizing: border-box; 
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f2f5;
+            color: #333;
+            line-height: 1.6;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        header { 
+            background: #fff; 
+            padding: 20px 8%; 
+            display: flex; 
+            justify-content: space-between; 
+            align-items: center; 
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1); 
+            position: fixed; 
+            width: 100%; 
+            top: 0; 
+            z-index: 1000;
+        }
+        .logo { 
+            font-size: 24px; 
+            font-weight: bold; 
+            color: #1a237e; 
+            text-transform: uppercase; 
+        }
+        nav { 
+            display: flex; 
+            gap: 25px; 
+        }
+        nav a { 
+            text-decoration: none; 
+            color: #333; 
+            font-weight: 600; 
+            padding-bottom: 5px; 
+        }
+        nav a:hover { 
+            color: #1a237e; 
+        }
+        .container {
+            width: 100%;
+            max-width: 600px;
+            padding: 20px;
+            margin: 100px auto 40px;
+            flex: 1;
+        }
+        .konten-header { 
+            text-align: center; 
+            margin-bottom: 30px; 
+            color: green;
+        }
+        .kontak-list { 
+            display: flex; 
+            flex-direction: column; 
+            gap: 12px; 
+        }
+        .kontak-item {
+            background: #fff;
+            padding: 18px 20px;
+            border-radius: 8px;
+            display: flex;
+            justify-content: space-between;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-left: 5px solid green;
+        }
+        .kontak-nama { 
+            font-weight: 600; 
+            color: #333; 
+            font-size: 15px; 
+        }
+        .kontak-nomor { 
+            font-weight: bold; 
+            color: green; 
+            font-size: 15px; 
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #ffffff;
+            color: #888;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">CALL CENTER</div>
+        <nav>
+            <a href="beranda.html">Beranda</a>
+            <a href="tentang.html">Tentang Kami</a>
+            <a href="panduan.html">Panduan</a>
+        </nav>
+    </header>
+
+    <div class="container">
+        <div class="konten-header">
+            <h2>AMBULANCE & RUMAH SAKIT</h2>
+        </div>
+        <div class="kontak-list">
+            <div class="kontak-item">
+                <span class="kontak-nama">RS QIM (Qolbu Insan Medika) Batang</span>
+                <span class="kontak-nomor">(0285) 4495221</span>
+            </div>
+            <div class="kontak-item">
+                <span class="kontak-nama">RSUD Batang</span>
+                <span class="kontak-nomor">(0285) 391033 / 4493034</span>
+            </div>
+            <div class="kontak-item">
+                <span class="kontak-nama">RSUD Limpung</span>
+                <span class="kontak-nomor">(0285) 4468362</span>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p class="copyright">&copy; CALL CENTER - X PPLG 1</p>
+    </footer>
+</body>
+</html>
